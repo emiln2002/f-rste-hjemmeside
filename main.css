@@ -1,0 +1,9 @@
+.overskrift {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    width: 100%;
+    background-color: #f3f4f7;
+    margin-bottom: 10px;
+    border-radius: 5
+    }
